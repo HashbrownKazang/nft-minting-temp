@@ -1,6 +1,6 @@
 {
-  "name": "nft-minting-template",
-  "version": "0.1.0",
+  "name": "spunt-nft",
+  "version": "1.1.1",
   "private": true,
   "scripts": {
     "dev": "next dev",

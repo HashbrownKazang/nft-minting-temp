@@ -8,8 +8,8 @@ import { ToastProvider } from "@/components/ui/toast";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-	title: "NFT Minting template",
-	description: "A minting template powered by thirdweb",
+	title: "spuntentertainment collection",
+	description: "spuntentertainment collection is a nextjs app that allows you to mint an NFT from the spuntentertainment collection",
 };
 
 export default function RootLayout({
